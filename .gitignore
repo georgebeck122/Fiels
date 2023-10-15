@@ -1,0 +1,5 @@
+secrets.txt
+genius.txt
+
+#Pound sign to comment
+# *.txt --> all files with the .txt extension are ignored
